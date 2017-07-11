@@ -9,8 +9,6 @@ body {background-color:powderblue;}
 <title>Portfolio</title>
 <script>
 window.alert("Welcome to my page!");
-</script>
-<script>
 function bigImg(x) {
     x.style.height = "648px";
     x.style.width = "432px";
@@ -20,10 +18,14 @@ function normalImg(x) {
     x.style.height = "324px";
     x.style.width = "216px";
 }
+function changeText()
+{
+document.getElementById('bio').innerHTML = "Hi, I'm Lana, and I'm 15 years old. I'm going to be a junior at Piedmont Hills High School. I like to spend time looking at memes and watching shows.";
+}
 </script>
 <h1>Lana Ngo</h1>
 <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" border="0" src="me.png" alt="me" width="216" height="324">
-<p onclick="this.innerHTML='Hi, I'm Lana, and I'm 15 years old. I'm going to be a junior at Piedmont Hills High School. I like to spend time looking at memes and watching shows. blah blah blah'">Hi, I'm Lana, and I'm 15 years old. I'm going to be a junior at Piedmont Hills High School. I like to spend time looking at memes and watching shows. Click to learn more about me!</p>
+<p id='bio' onclick='changeText()'>Hi, I'm Lana, and I'm 15 years old. I'm going to be a junior at Piedmont Hills High School. I like to spend time looking at memes and watching shows. Click more to learn about me!</p>
 <h1>Likes</h1>
 <h1>Dislikes</h1>
 <p>spiders
