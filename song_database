@@ -4,7 +4,7 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (3, 'Bakersfield', 'Buck Owens'),
 (4, 'Bakersfield', 'Korn'),
 (5, 'Bakersfield', 'Merle Haggard'),
-(6, 'Danville', 'Kevin Woo', 'spotify:track:13h7kn60F7NLajwvpo40Ky'),
+(6, 'Danville', 'Kevin Woo', 'spotify:track:59hLkSaMJlkmjQICAjGgTe'),
 (7, 'El Centro', 'Cher'),
 (8, 'Eureka', 'Sara Bareilles'),
 (9, 'Fairfield', 'Sage the Gemini', 'spotify:track:2ng5lhEsASy6jgbOLg877a'),
@@ -13,10 +13,10 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (12, 'Fresno', 'Farrah Franklin'),
 (13, 'Fresno', 'Fashawn', 'spotify:track:2mGdIBIKa8lEkm1xtmIJmU'),
 (14, 'Los Angeles', 'Adam Levine', 'spotify:track:4P0osvTXoSYZZC2n8IFH3c'),
-(15, 'Los Angeles', 'Amber Liu'),
-(16, 'Los Angeles', 'Aron Kwak'),
+(15, 'Los Angeles', 'Amber Liu', 'spotify:track:5vgXJ72X7U9Hw3gjUoUgeR'),
+(16, 'Los Angeles', 'Aron Kwak', 'spotify:track:60oyvXjv0nwZnRrwZvZqUm'),
 (17, 'Los Angeles', 'Audioslave', 'spotify:track:3YuaBvuZqcwN3CEAyyoaei'),
-(18, 'Los Angeles', 'B.M'),
+(18, 'Los Angeles', 'B.M', 'spotify:track:3VC1IEz9M1txlMSx3h3tPM'),
 (19, 'Los Angeles', 'Beck', 'spotify:track:5PntSbMHC1ud6Vvl8x56qd'),
 (20, 'Los Angeles', 'Black Hippy'), 'spotify:track:7x9vJE3Xa7mIH106rzO9Tk'
 (21, 'Los Angeles', 'Capital Cities', 'spotify:track:6Z8R6UsFuGXGtiIxiD8ISb')
@@ -30,7 +30,7 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (29, 'Los Angeles', 'Hunter Hunted', 'spotify:track:6wdzLY3TTwx7zVnMmj8Z8R'),
 (30, 'Los Angeles', 'Ice Cube'),
 (31, 'Los Angeles', 'Jack Ü'),
-(32, 'Los Angeles', 'Joshua Hong'),
+(32, 'Los Angeles', 'Joshua Hong', 'spotify:track:6Upu6yjkdi0DVI8E3IBZEU'),
 (33, 'Los Angeles', 'Kid Ink', 'spotify:track:7uc39NPTNiu86GQxTUMzGT','spotify:track:7GVXLjLhmyBCzp3jfZAC9y')
 (34, 'Los Angeles', 'Lifehouse','spotify:track:7Iv3yOu5ZqtXi5hxSMNi42')
 (35, 'Los Angeles', 'Mark Tuan'),
