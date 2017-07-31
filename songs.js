@@ -1,6 +1,4 @@
-var citiesAndTracks = {Bakersfield: ['spotify:track:6adhpSbrhat9S0WEVjf4HP', 'spotify:track:53lkGbhMqBVANHmVgRGC6i', 'spotify:track:3JWEMzwpcWCvu4Qw1BIbYi', 'spotify:track:6W21LNLz9Sw7sUSNWMSHRu', 'spotify:track:1A6P8IxzNyBRsQualaNXNY'], Danville: ['spotify:track:59hLkSaMJlkmjQICAjGgTe'], El Centro: ['spotify:track:2goLsvvODILDzeeiT4dAoR'], Eureka: ['spotify:track:6Uy6K3KdmUdAfelUp0SeXn'], Fairfield: [spotify:track:2ng5lhEsASy6jgbOLg877a'], esno', 'Audra McDonald','spotify:track:2ppkGKabWsSgNV4fvOldQb'),
-(12, 'Fresno', 'Farrah Franklin', 'spotify:track:1uYqUmKoxS3bJdXK6C1Un3'),
-(13, 'Fresno', 'Fashawn', 'spotify:track:2mGdIBIKa8lEkm1xtmIJmU'),
+var citiesAndTracks = {Bakersfield: ['spotify:track:6adhpSbrhat9S0WEVjf4HP', 'spotify:track:53lkGbhMqBVANHmVgRGC6i', 'spotify:track:3JWEMzwpcWCvu4Qw1BIbYi', 'spotify:track:6W21LNLz9Sw7sUSNWMSHRu', 'spotify:track:1A6P8IxzNyBRsQualaNXNY'], Danville: ['spotify:track:59hLkSaMJlkmjQICAjGgTe'], El Centro: ['spotify:track:2goLsvvODILDzeeiT4dAoR'], Eureka: ['spotify:track:6Uy6K3KdmUdAfelUp0SeXn'], Fairfield: [spotify:track:2ng5lhEsASy6jgbOLg877a'], Fresno: ['spotify:track:2ppkGKabWsSgNV4fvOldQb', 'spotify:track:1uYqUmKoxS3bJdXK6C1Un3', 'spotify:track:2mGdIBIKa8lEkm1xtmIJmU'],
 (14, 'Los Angeles', 'Adam Levine', 'spotify:track:4P0osvTXoSYZZC2n8IFH3c'),
 (15, 'Los Angeles', 'Amber Liu', 'spotify:track:5vgXJ72X7U9Hw3gjUoUgeR'),
 (16, 'Los Angeles', 'Aron Kwak', 'spotify:track:60oyvXjv0nwZnRrwZvZqUm'),
