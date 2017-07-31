@@ -8,7 +8,6 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (7, 'El Centro', 'Cher', 'spotify:track:2goLsvvODILDzeeiT4dAoR'),
 (8, 'Eureka', 'Sara Bareilles', 'spotify:track:6Uy6K3KdmUdAfelUp0SeXn'),
 (9, 'Fairfield', 'Sage the Gemini', 'spotify:track:2ng5lhEsASy6jgbOLg877a'),
-(10, 'Banganapalle', 'Andhra Pradesh'),
 (11, 'Fresno', 'Audra McDonald','spotify:track:2ppkGKabWsSgNV4fvOldQb'),
 (12, 'Fresno', 'Farrah Franklin', 'spotify:track:1uYqUmKoxS3bJdXK6C1Un3'),
 (13, 'Fresno', 'Fashawn', 'spotify:track:2mGdIBIKa8lEkm1xtmIJmU'),
@@ -28,12 +27,10 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (27, 'Los Angeles', 'Hayley Kiyoko', 'spotify:track:3dNjUFt6EFU4Gq6Q5vfJqf'),
 (28, 'Los Angeles', 'Hollywood Undead', spotify:track:5wBLDkxVvclanSitx5jq8e),
 (29, 'Los Angeles', 'Hunter Hunted', 'spotify:track:6wdzLY3TTwx7zVnMmj8Z8R'),
-(30, 'Los Angeles', 'Ice Cube'),
 (31, 'Los Angeles', 'Jack Ü', 'spotify:track:6ZpR2XFuQJSHAQwg9495KZ'),
 (32, 'Los Angeles', 'Joshua Hong', 'spotify:track:6Upu6yjkdi0DVI8E3IBZEU'),
 (33, 'Los Angeles', 'Kid Ink', 'spotify:track:7uc39NPTNiu86GQxTUMzGT','spotify:track:7GVXLjLhmyBCzp3jfZAC9y')
 (34, 'Los Angeles', 'Lifehouse','spotify:track:7Iv3yOu5ZqtXi5hxSMNi42')
-(35, 'Los Angeles', 'Mark Tuan'),
 (36, 'Los Angeles', 'Maroon 5','spotify:track:0AKejOKlGdiB53QpwAeenO','spotify:track:7sapKrjDij2fpDVj0GxP66','spotify:track:1LmN9SSHISbtp9LoaR5ZVJ','spotify:track:4XNrMwGx1SqP01sqkGTDmo', 'spotify:track:2bL2gyO6kBdLkNSkxXNh6x')
 (37, 'Los Angeles', 'Metallica', 'spotify:track:10igKaIKsSB6ZnWxPxPvKO'),
 (38, 'Los Angeles', 'MKTO','spotify:track:6FE2iI43OZnszFLuLtvvmg','spotify:track:5tajmvqHF6YW1iiUFzKpCB')
@@ -47,8 +44,6 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (46, 'Beverly Hills', 'Booboo Stewart', 'spotify:track:2ziVTVizQdVNC2QhQhNGvg'),
 (47, 'Beverly Hills', 'Gangrene', 'spotify:track:7fwDFybKTd7IzJ2gFanmF8'),
 (48, 'Beverly Hills', 'The Alchemist', 'spotify:track:3EyNj8ps0rYIAF4xIpFCjc'),
-(49, 'Compton', 'Dr. Dre'),
-(50, 'Compton', 'Eazy-E'),
 (51, 'Compton', 'Ice Cube', 'spotify:track:2qOm7ukLyHUXWyR4ZWLwxA'),
 (52, 'Compton', 'Kendrick Lamar','spotify:track:7KXjTSCq5nL1LoYtL7XAwS','spotify:track:6HZILIRieu8S0iqY8kIKhj','spotify:track:6PGoSes0D9eUDeeAafB2As')
 (53, 'Compton', 'The Game','spotify:track:3JEzGRDUsozrehZTq3dKE8')
@@ -62,7 +57,6 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (61, 'Inglewood', 'Rae Sremmurd', 'spotify:track:6fujklziTHa8uoM5OQSfIo'),
 (62, 'Long Beach', 'Gangrene', 'spotify:track:7fwDFybKTd7IzJ2gFanmF8'),
 (63, 'Long Beach', 'The Alchemist', 'spotify:track:3EyNj8ps0rYIAF4xIpFCjc'),
-(64, 'Long Beach', 'Dr. Dre'),
 (65, 'Long Beach', 'Eazy-E', 'spotify:track:4SZ3B3y1TbwTK4OIXMOVEy'),
 (66, 'Compton', 'Frank Ocean','spotify:track:7DfFc7a6Rwfi3YQMRbDMau','spotify:track:3CgZCQyuyxHRMWB9BTwmni')
 (67, 'Compton', 'Jennette McCurdy', 'spotify:track:2GJEMlKxt3GL2rJMOTET6Z'),
@@ -74,7 +68,6 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (73, 'Torrance', 'Julian Cubillos','spotify:track:75SBpBB0SUZR0A0HzW7xwi')
 (74, 'Orange County', 'Banks','spotify:track:4PvD06Pmbm2rHG2JjSlElF')
 (75, 'Orange County', 'Jack’s Mannequin','spotify:track:4NaPX1b3NsQqJrrAwkkvVc')
-(76, 'Orange County', 'Sunny'),
 (77, 'Anaheim', 'Eden Espinosa', 'spotify:track:3cqBDhm3ZymbMnv3CJVieh'),
 (78, 'Anaheim', 'Eden xo', 'spotify:track:4p6llmWOfcNKYItgIoteBl'),
 (79, 'Anaheim', 'Marcus Mumford', 'spotify:track:0YOOXnCJihgyluizqhAcrz'),
@@ -84,8 +77,7 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (83, 'Fullerton', 'Gwen Stefani', 'spotify:track:6RcQOut9fWL6FSqeIr5M1r'),
 (84, 'Newport Beach', 'Elise Trouw', 'spotify:track:5XTFcB4VvTVhxUweDAm1g4'),
 (85, 'Newport Beach', 'Steve Aoki','spotify:track:6vscP7Fweq7fwosyliwjRq')
-(86, 'Oxnard', 'Anderson .Paak', 'spotify:track:33pDmPx2pkJ7JCAQpRDQ9B'),
-(87, 'Diamond Bar', 'Danny Im'),
+(86, 'Oxnard', 'Anderson .Paak', 'spotify:track:33pDmPx2pkJ7JCAQpRDQ9B'),,
 (88, 'Hacienda Heights', 'Fergie', 'spotify:track:1D066zixBwqFYqBhKgdPzp'),
 (89, 'Huntington Beach', 'Avenged Sevenfold', spotify:track:5anCkDvJ17aznvK5TED5uo'),
 (90, 'Irvine', 'Young the Giant','spotify:track:5Az8KU81g2aLBbJN67F2CI')
@@ -106,9 +98,7 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (105, 'Murrieta', 'Johnny Rain','spotify:track:4I7B083Xi0GdfjRoW8HZU6')
 (106, 'Newbury Park', 'The Neighbourhood','spotify:track:5E30LdtzQTGqRvNd7l6kG5','spotify:track:07VBqWH6NG8L2ad3l84UKk','spotify:track:2u0CelO5c81XS7z3dGpHbS','spotify:track:7ehH993HyaSs8LjIsOpbGA','spotify:track:2QjOHCTQ1Jl3zawyYOpxh6')
 (107, 'Palm Springs', 'B-Tight', 'spotify:track:2KZXnR0qj5CX8TPOZSshjc'),
-(108, 'Palm Springs', 'Matt McJunkins'),
 (109, 'Palm Springs', 'Tyler Hilton', 'spotify:track:0p7IjEa6dXafyAZp69COFt'),
-(110, 'Rancho Cucamonga', 'Nichkhun Horvejkul'),
 (111, 'Riverside', 'Amy Lee', 'spotify:track:6wEZKaUnOFYZpi76ZGlfeF'),
 (112, 'Riverside', 'Travis Mills', 'spotify:track:26a1ih91NiFLHgJo4Tk2Dw'),
 (113, 'Sacramento', 'Will Anderson', 'spotify:track:2668bwtJY480AmGb2iXlo3'),
@@ -138,17 +128,12 @@ INSERT INTO `cities` (`city_name`, 'artist_name", `track_id`) VALUES
 (138, 'Palo Alto', 'Loren Gold', 'spotify:track:1P6YsnKLEAgmIqclNxDn03'),
 (139, 'Palo Alto', 'Matt Simons', 'spotify:track:11BAVEGi1ivJ6JWLqKUNrZ'),
 (140, 'San Francisco', 'ILLENIUM', 'spotify:track:0Ev562zA4pmUsBqjxsxxdx'),
-(141, 'San Francisco', 'Jessica Jung'),
 (142, 'San Francisco', 'Journey', 'spotify:track:77NNZQSqzLNqh2A9JhLRkg'),
-(143, 'San Francisco', 'Krystal Jung'),
 (144, 'San Francisco', 'Lauv', spotify:track:1wjzFQodRWrPcQ0AnYnvQ9'),
 (145, 'San Francisco', 'Third Eye Blind', 'spotify:track:42et6fnHCw1HIPSrdPprMl'),
-(146, 'San Francisco', 'Tiffany Hwang'),
 (147, 'San Francisco', 'Train', 'spotify:track:2hKdd3qO7cWr2Jo0Bcs0MA'),
 (148, 'San Jose', 'Smash Mouth', 'spotify:track:3cfOd4CMv2snFaKAnMdnvK'),
 (149, 'Vallejo', 'Baby Bash', 'spotify:track:6Nq5lE0CeOAAAqN4qhkbZU'),
 (150, 'Vallejo', 'E-40', spotify:track:6o3s08kk2fQI37vxGZDrJ1'),
 (151, 'Vallejo', 'Mac Dre', 'spotify:track:4sqGlfDc7QCPvAvUBk4OKn'),
 (152, 'Thousand Oaks', 'Olivia O’Brien', spotify:track:0jllH0usRFD4LJkJnGK9Lf'),
-
-
